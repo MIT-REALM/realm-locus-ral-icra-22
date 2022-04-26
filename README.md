@@ -1,4 +1,4 @@
-This is the repository that contains source code for the [website](https://realm-locus-ral-icra-22.github.io) for our submission to RA-L/ICRA 2022.
+This is the repository that contains source code for the [website](https://mit-realm.github.io/realm-locus-ral-icra-22/) for our submission to RA-L/ICRA 2022.
 
 This website is based on the [Nerfies website](https://github.com/nerfies/nerfies.github.io)
 
